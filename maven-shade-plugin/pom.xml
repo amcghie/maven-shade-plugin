@@ -45,7 +45,7 @@ under the License.
   </prerequisites>
 
   <properties>
-    <mavenVersion>3.0</mavenVersion>
+    <mavenVersion>3.5.0</mavenVersion>
     <currentVersion>${project.version}</currentVersion>
     <asmVersion>5.2</asmVersion>
     <checkstyle.skip>true</checkstyle.skip>
@@ -90,7 +90,7 @@ under the License.
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-utils</artifactId>
-      <version>3.0.20</version>
+      <version>3.0.24</version>
     </dependency>
 
     <!-- Others -->
